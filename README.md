@@ -1,0 +1,2 @@
+# utl_import_data_from_excel_sheet_with_headers_and_footers_without_specifying_range_option
+Import data from excel sheet with headers and footers without specifying RANGE option.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
